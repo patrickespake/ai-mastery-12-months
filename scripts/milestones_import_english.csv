@@ -1,0 +1,8 @@
+title,description,due_date,state
+"MILESTONE 1: Fundamentals and Mathematics","Establish a solid foundation in mathematics, Python programming, and fundamental AI concepts. Master linear algebra, calculus, statistics, and advanced Python. Complete 3 practical projects and build a comprehensive predictive analysis system.",2025-08-15,open
+"MILESTONE 2: Classical Machine Learning","Master traditional Machine Learning algorithms and validation techniques. Implement supervised and unsupervised learning algorithms from scratch, ensemble methods, and hyperparameter optimization. Build a complete ML system for e-commerce.",2025-10-15,open
+"MILESTONE 3: Deep Learning and Neural Networks","Specialize in neural networks, CNNs, RNNs, and advanced architectures. Master TensorFlow/PyTorch, computer vision, and NLP. Build a multimodal virtual assistant with text, voice, and image processing capabilities.",2025-12-15,open
+"MILESTONE 4: Generative AI and Advanced Models","Master generative AI, GANs, VAEs, Diffusion Models, and Large Language Models. Learn fine-tuning, prompt engineering, and RAG systems. Build a comprehensive content creation platform with monetization.",2026-02-15,open
+"MILESTONE 5: Specialization and Applications","Apply knowledge in specific domains and prepare for production deployment. Master advanced computer vision, specialized NLP, reinforcement learning, and MLOps. Build complete production-ready systems.",2026-04-15,open
+"MILESTONE 6: Advanced Projects and Portfolio","Create professional portfolio and complex projects to demonstrate expertise. Build two major capstone projects (Smart City Platform and Educational AI Platform), establish professional network, and execute career transition.",2026-06-15,open
+
